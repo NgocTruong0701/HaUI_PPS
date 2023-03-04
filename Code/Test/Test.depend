@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1664909068 source:e:\download\nam_3_ki_1\phuong_phap_so\code\test\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+
